@@ -4,10 +4,10 @@ const chalk = require("chalk");
 //to enable function - true
 //to disable function - false
 //
-global.available = false;
+global.available = true;
 global.autoReadGc = false;
 global.autoReadAll = false;
-global.antitags = false;
+global.antitags = true;
 
 
 //auto functioner
